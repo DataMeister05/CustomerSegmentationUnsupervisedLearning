@@ -19,6 +19,6 @@ We specify the number of clusters that we need to create.
 - Sklearn
 
 ### Dataset
-new.csv
+The follwoing is the dataset used: new.csv
 
 
